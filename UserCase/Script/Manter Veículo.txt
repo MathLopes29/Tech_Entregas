@@ -1,0 +1,25 @@
+
+Manter Veículo
+
+1 – O Sistema exibe e habilita as opções “incluir”, “alterar”, “consultar” e “excluir”.
+
+“Incluir”:
+2.1 – O Sistema habilita os campos Ano, Modelo, Marca, Tipo de Motor, Cor, Placa e Status.
+2.2 - O Funcionário preenche os campos Ano, Modelo, Marca, Tipo de Motor, Cor e Placa e Status.
+2.3 – O Banco armazena os dados.
+
+“Alterar”:
+2.1 – O Sistema exibe e habilita os campos Ano, Modelo, Marca, Tipo de Motor, Cor e Placa e Status. 
+2.2 – O Funcionário altera os dados desejados.
+2.3 – O Banco armazena os dados.
+
+“Excluir”:
+2.1 – O Sistema habilita remover dados do veículo.
+2.2 – O Sistema exibe os campos Ano, Modelo, Marca, Tipo de Motor, Cor e Placa e Status e a mensagem “Confirmar exclusão?” e habilita a opção “Confirmar”.
+2.4 – O Funcionário confirma a exclusão.
+2.5 – O Banco remove os dados do veículo. 
+
+“Consultar”:
+ 2.1 – O Sistema exibe e habilita o campo Placa.
+ 2.2 – O Funcionário preenche o campo Placa.
+ 2.3 – O Sistema exibe os campos Ano, Modelo, Cor e Status.

@@ -1,0 +1,9 @@
+Acesso Empresa
+
+1 – O Sistema habilita os campos login e senha.
+
+2 – O funcionario preenche os campos login e senha.
+
+3 - O sistema autentica o login do funcionario 
+
+4 - O funcionario acessa o sistema.

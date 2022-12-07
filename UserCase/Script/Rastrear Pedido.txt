@@ -1,0 +1,9 @@
+Rastrear Pedido
+
+1 – O Sistema habilita o campo Numero do Pedido.
+
+2 – O cliente ou funcionário preenche o Numero do Pedido.
+
+3 - O sistema verífica a localização do Pedido o login do cliente.
+
+4 - O sistema mostra a localização do Pedido para o cliente ou para o funcionário.

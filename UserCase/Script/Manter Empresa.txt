@@ -1,0 +1,26 @@
+Manter Empresa
+
+1 – O sistema exibe e habilita as opções “incluir”, “alterar”, “consultar” e “excluir”.
+2 – O administrador seleciona a opção:
+
+“Incluir”:
+2.1 – O sistema habilita os campos Nome, E-mail, CNPJ, Telefone, Login e Senha.
+2.2 – O Usuário preenche os campos.
+2.3 – O sistema armazena os dados.
+
+“Alterar”:
+2.1 – O sistema exibe e habilita os campos E-mail, Telefone, Login e Senha
+2.2 – O Usuário altera os dados desejados.
+2.3 – O sistema armazena os dados.
+
+“Consultar”:
+ 2.1 – O sistema habilita o campo login.
+ 2.2 – O Usuário preenche o campo login.
+ 2.3 – O sistema exibe os campos Nome, E-mail, CNPJ, Telefone.
+
+“Excluir”:
+2.1 – O sistema habilita o campo login.
+2.2 – O Usuário preenche o campo login.
+2.3 – O sistema exibe os campos E-mail, Telefone, Login, a mensagem “Confirmar exclusão?” e habilita a opção “Confirmar”.
+2.4 – O Usuário confirma a exclusão.
+2.5 – O sistema remove os dados do usuário.

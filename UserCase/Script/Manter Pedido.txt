@@ -1,0 +1,25 @@
+Manter Pedido
+
+1 – O sistema exibe e habilita as opções “incluir”, “alterar”, “consultar” e “excluir”.
+
+“Incluir”:
+2.1 – O sistema habilita o preenchimento dos campos de características do produto enviado (Produto, Peso, Data de Postagem, Endereço Final, Destinatário).
+2.2 - O usuário preenche os campos de características do produto
+2.3 – O banco armazena os dados.
+2.4 - O sistema transfere os dados de Manter Entrega e soma com os dados de manter pedidos para o cálculo da entrega.
+
+“Alterar”:
+2.1 – O sistema habilita o preenchimento dos campos de características do produto enviado. 
+2.2 – O usuário altera os dados desejados.
+2.3 – O banco armazena os dados.
+
+“Excluir”:
+2.1 – O sistema habilita a opção de cancelamento.
+2.2 – O sistema exibe os campos número Pedido, a mensagem “Confirmar cancelamento?” e habilita a opção “Confirmar”.
+2.4 – O usuário confirma o cancelamento.
+2.5 – O banco remove os dados do pedido. 
+
+“Consultar”:
+ 2.1 – O sistema exibe e habilita o campo número pedido.
+ 2.2 – O Usuário preenche o número do pedido.
+ 2.3 – O sistema gera um relatório sobre o status do pedido.

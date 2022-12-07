@@ -1,0 +1,5 @@
+Gerar Relatório
+
+1 – Após o sistema confirmar a entrega do pedido, o Sistema ira gerar um relatório com os preenchimento dos campos de Manter Pedido e Manter Entrega (Tipo de Entrega, Endereço, Número do Pedido, Nome do Usuário, Telefone, etc...).
+
+2 – O funcioinário tem acesso direto a cada relatório gerado, lembrando que cada relatório é salvo no banco de dados da Tech Entregas por 90 dias.  

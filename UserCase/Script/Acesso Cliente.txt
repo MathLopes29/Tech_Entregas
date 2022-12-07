@@ -1,0 +1,9 @@
+Acesso Cliente
+
+1 – O Sistema habilita os campos login e senha.
+
+2 – O cliente preenche os campos login e senha.
+
+3 - O sistema autentica o login do cliente.
+
+4 - O cliente acessa o sistema.
